@@ -8,5 +8,5 @@
 
 ## Contact Me 📫
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/alexander-deane-9424752bb)
-[![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:alexrdeane+devsundae@gmail.com)
+[![LinkedIn](http://www.w3.org/2000/svg)](https://www.linkedin.com/in/alexander-deane-9424752bb)
+[![eMail](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:alexrdeane+devsundae@gmail.com)
