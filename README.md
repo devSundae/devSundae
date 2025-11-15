@@ -9,4 +9,4 @@
 ## Contact Me 📫
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/alexander-deane-9424752bb)
-[![Email]](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:alexrdeane+devsundae@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:alexrdeane+devsundae@gmail.com)
