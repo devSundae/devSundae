@@ -6,6 +6,7 @@
   
 - 🌟 my goal currently is to publish some releases on Steam for projects I am working on
 
-## Contact Me 
+## Contact Me 📫
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn)](https://www.linkedin.com/in/alexander-deane-9424752bb)
+[![eMail]](https://img.shields.io/badge/-Email-blue?&logo=Gmail)](mailto:alexrdeane+devsundae@gmail.com)
